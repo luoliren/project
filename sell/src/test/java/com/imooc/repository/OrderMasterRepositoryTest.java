@@ -12,10 +12,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import java.math.BigDecimal;
 
-/**
- * Created by 廖师兄
- * 2017-06-11 17:31
- */
+
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class OrderMasterRepositoryTest {

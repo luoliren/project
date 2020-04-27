@@ -11,10 +11,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 import java.math.BigDecimal;
 import java.util.List;
 
-/**
- * Created by 廖师兄
- * 2017-05-09 11:42
- */
+
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class ProductInfoRepositoryTest {

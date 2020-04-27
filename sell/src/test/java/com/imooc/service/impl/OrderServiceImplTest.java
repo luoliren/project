@@ -17,10 +17,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by 廖师兄
- * 2017-06-11 19:54
- */
+
 @RunWith(SpringRunner.class)
 @SpringBootTest
 @Slf4j
