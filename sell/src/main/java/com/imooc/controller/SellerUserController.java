@@ -22,11 +22,7 @@ import java.util.Map;
 import java.util.UUID;
 import java.util.concurrent.TimeUnit;
 
-/**
- * 卖家用户
- * Created by 廖师兄
- * 2017-07-30 15:28
- */
+
 @Controller
 @RequestMapping("/seller")
 public class SellerUserController {

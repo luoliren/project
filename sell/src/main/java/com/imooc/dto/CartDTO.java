@@ -2,11 +2,7 @@ package com.imooc.dto;
 
 import lombok.Data;
 
-/**
- * 购物车
- * Created by 廖师兄
- * 2017-06-11 19:37
- */
+
 @Data
 public class CartDTO {
 

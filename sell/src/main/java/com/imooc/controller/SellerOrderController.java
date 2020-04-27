@@ -16,11 +16,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 import java.util.Map;
 
-/**
- * 卖家端订单
- * Created by 廖师兄
- * 2017-07-16 17:24
- */
+
 @Controller
 @RequestMapping("/seller/order")
 @Slf4j

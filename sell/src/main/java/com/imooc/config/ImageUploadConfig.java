@@ -7,10 +7,6 @@ import org.springframework.util.unit.DataSize;
 
 import javax.servlet.MultipartConfigElement;
 
-/**
- * Created by 廖师兄
- * 2018-06-05 14:49
- */
 @Component
 public class ImageUploadConfig {
 

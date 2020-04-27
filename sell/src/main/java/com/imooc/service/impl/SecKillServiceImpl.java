@@ -10,10 +10,7 @@ import org.springframework.stereotype.Service;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by 廖师兄
- * 2017-08-06 23:18
- */
+
 @Service
 public class SecKillServiceImpl implements SecKillService {
 

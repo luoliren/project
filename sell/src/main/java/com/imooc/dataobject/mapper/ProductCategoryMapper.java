@@ -6,10 +6,7 @@ import org.apache.ibatis.annotations.*;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by 廖师兄
- * 2017-08-05 00:22
- */
+
 public interface ProductCategoryMapper {
 
     @Insert("insert into product_category(category_name, category_type) values (#{categoryName, jdbcType=VARCHAR}, #{category_type, jdbcType=INTEGER})")

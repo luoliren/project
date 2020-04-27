@@ -17,10 +17,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-/**
- * Created by 廖师兄
- * 2017-07-04 00:54
- */
+
 @Service
 @Slf4j
 public class PayServiceImpl implements PayService {

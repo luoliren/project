@@ -18,11 +18,7 @@ import javax.validation.Valid;
 import java.util.List;
 import java.util.Map;
 
-/**
- * 卖家类目
- * Created by 廖师兄
- * 2017-07-23 21:06
- */
+
 @Controller
 @RequestMapping("/seller/category")
 public class SellerCategoryController {

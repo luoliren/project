@@ -25,11 +25,7 @@ import javax.validation.Valid;
 import java.util.List;
 import java.util.Map;
 
-/**
- * 卖家端商品
- * Created by 廖师兄
- * 2017-07-23 15:12
- */
+
 @Controller
 @RequestMapping("/seller/product")
 public class SellerProductController {

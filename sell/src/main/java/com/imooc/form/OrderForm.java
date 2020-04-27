@@ -4,10 +4,7 @@ import lombok.Data;
 
 import javax.validation.constraints.NotEmpty;
 
-/**
- * Created by 廖师兄
- * 2017-06-18 23:31
- */
+
 @Data
 public class OrderForm {
 

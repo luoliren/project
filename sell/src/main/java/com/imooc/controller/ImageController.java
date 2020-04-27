@@ -17,10 +17,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
 
-/**
- * Created by 廖师兄
- * 2018-06-04 20:38
- */
+
 @RestController
 @RequestMapping("/image")
 public class ImageController {

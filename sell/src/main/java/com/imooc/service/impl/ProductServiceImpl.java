@@ -18,10 +18,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-/**
- * Created by 廖师兄
- * 2017-05-09 17:31
- */
+
 @Service
 //@CacheConfig(cacheNames = "product")
 public class ProductServiceImpl implements ProductService {

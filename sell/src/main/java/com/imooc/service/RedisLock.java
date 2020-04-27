@@ -6,10 +6,7 @@ import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.stereotype.Component;
 import org.springframework.util.StringUtils;
 
-/**
- * Created by 廖师兄
- * 2017-08-07 23:55
- */
+
 @Component
 @Slf4j
 public class RedisLock {

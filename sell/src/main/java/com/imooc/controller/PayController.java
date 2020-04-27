@@ -13,11 +13,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 import java.util.Map;
 
-/**
- * 支付
- * Created by 廖师兄
- * 2017-07-04 00:49
- */
+
 @Controller
 @RequestMapping("/pay")
 public class PayController {

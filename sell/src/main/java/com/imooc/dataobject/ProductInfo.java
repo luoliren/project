@@ -12,11 +12,7 @@ import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.Date;
 
-/**
- * 商品
- * Created by 廖师兄
- * 2017-05-09 11:30
- */
+
 @Entity
 @Data
 @DynamicUpdate
